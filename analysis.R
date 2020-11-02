@@ -1,5 +1,6 @@
 # Do cool stuff
 # sorry u got rejected Mike :/
+# From: https://twitter.com/aschinchon
 library(tidyverse)
 tibble(t = (1:2300)*2.4432, 
        x = sin(t), 
