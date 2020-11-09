@@ -2,7 +2,7 @@
 Here is a change in `my-branch`
 Another change
 
-A snack recommendation: Goldfish + Trader Joe's yogurt 
+A snack recommendation: Goldfish + Trader Joe's yogurt
 Another rec: leftover mac and cheese
 peanut butter jelly 
 Hot cheetos 
@@ -11,3 +11,5 @@ ravioli 
 oreo's 
 fries 
 Another rec: cookieThins dark chocolate and coconut
+
+Hi Mike, how's your morning been? 
